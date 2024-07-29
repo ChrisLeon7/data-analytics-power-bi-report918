@@ -1,0 +1,9 @@
+# data-analytics-power-bi-report918
+
+## Data transformation
+
+A VM was created on Azure to utilise Power BI. A coonection with an SQL database server was made to import and load data related to Orders.
+A separate csv file was imported to load data regarding the products.
+A connection with an Azure BLOB Storage was created to load data regarding clients.
+
+All data was then transformed to ensure consistency on Power BI, ensuring data is clean to work with.
