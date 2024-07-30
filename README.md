@@ -7,3 +7,5 @@ A separate csv file was imported to load data regarding the products.
 A connection with an Azure BLOB Storage was created to load data regarding clients.
 
 All data was then transformed to ensure consistency on Power BI, ensuring data is clean to work with.
+
+A data model was created to understand data better. A date table was created for reference, which was then used to create relationships with other data. 
