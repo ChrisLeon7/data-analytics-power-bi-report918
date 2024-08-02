@@ -9,3 +9,7 @@ A connection with an Azure BLOB Storage was created to load data regarding clien
 All data was then transformed to ensure consistency on Power BI, ensuring data is clean to work with.
 
 A data model was created to understand data better. A date table was created for reference, which was then used to create relationships with other data. 
+
+## Customer Report
+
+To provide a comprehensive overview of all customers, a report was created. This report includes customers per country, product category, overall revenue, as well asthe top 20, and top 3 customers per revenue. An additional slicer was added to identify specific dates. 
