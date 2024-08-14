@@ -23,3 +23,7 @@ Dont charts were created for easy visualisation of revenue by country and by sto
 
 A prodcut page has been created to provide an in-depth look at which prodcuts within the inventory are performing well. To achive this, a series of filters have been created that provid einsights into specific products and regions. 
 A gauge visual has been created to show how the selected catogory's revenue, profit and number of orders are performing against a quarterly ttarget. Additionally, a table providing the top 10 products by revenue in the selected context. Finally, a scatter graph was created to identify quantity orders against profit per item. 
+
+## Atores Map Page
+
+A store maps page has been created to allow managers to quickly identify the stores under their control, highlighting profibility and if they are on track to reach their quarterly profit and revenue targets.
